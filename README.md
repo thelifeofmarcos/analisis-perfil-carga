@@ -1,7 +1,7 @@
 # Análisis de perfil de carga - planta industrial
 Análisis de 8760 registros horarios de demanda eléctrica de una planta industrial, con Python y pandas.
 ## Hallazgos
-- Demanda maxima: 666 kW (1 de septiembre, 15:00)
+- Demanda máxima: 666 kW (1 de septiembre, 15:00)
 - Consumo anual: 2607.87 MWh
 - Factor de carga: 0.447
 
@@ -17,4 +17,4 @@ La componente de climatización coincide  con las horas de mayor generación sol
 
 ## Herramientas
 
-Pyhton, pandas, matplotlib, Google Colab
+Python, pandas, matplotlib, Google Colab
