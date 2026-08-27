@@ -18,3 +18,4 @@ La componente de climatización coincide  con las horas de mayor generación sol
 ## Herramientas
 
 Python, pandas, matplotlib, Google Colab
+Los datos son un perfil sintético de 8760 registros horarios, generado para simular una planta industrial de dos turnos.
